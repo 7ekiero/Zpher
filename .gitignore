@@ -1,0 +1,29 @@
+# Build artifacts
+bin/
+obj/
+.vs/
+
+# User-specific
+*.user
+*.suo
+*.cache
+*.pdb
+*.db
+
+# Logs and configs
+*.log
+*.tmp
+*.json
+*.config
+
+# Compiled binaries
+*.exe
+*.dll
+*.zip
+*.7km
+*.zph
+
+# Others
+*.bak
+*.old
+*.swp
