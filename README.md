@@ -1,3 +1,5 @@
+Zpher
+
 **Zpher** es una herramienta de cifrado simétrico escrita en **C# (.NET)**.  
 Combina derivación de clave **Argon2id** y cifrado autenticado **AES-GCM**, sellando archivos o carpetas en un contenedor personalizado con extensión **`.7km`** y encabezado **`7KMVAUL7`**.
 
